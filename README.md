@@ -1,2 +1,2 @@
 # Systems-Programming
-Lecture notes and projects about systems programming
+Lecture notes and projects about Systems Programming
