@@ -1,5 +1,5 @@
 let numArray = [];
-maxValue = 5; //Maximum size of the stack
+let maxValue = 5; //Maximum size of the stack
 let top = -1; //Identifies the index of the top of the stack. Starts from -1, because each push invoke will increase top by one.
 let j = 1;            
 
