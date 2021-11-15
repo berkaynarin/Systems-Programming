@@ -26,7 +26,6 @@ function pop() {
 }
 
 function display() {
-
     if(numArray.length != 0) {
         for(let i = top; i >= 0; i--) {
             console.log(j + ". element: " + numArray[i]);
@@ -37,4 +36,7 @@ function display() {
     console.log("The stack is empty. Nothing to display.")
 }
 
+push(5);
+push(13);
 pop();
+display();
